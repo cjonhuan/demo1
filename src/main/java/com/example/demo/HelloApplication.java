@@ -12,6 +12,7 @@ import java.io.IOException;
 public class HelloApplication extends Application {
     @Override
     public void start(Stage stage) throws IOException {
+//sdasdasd
         Pane root = new Pane();
         Scene scene1 = new Scene(root, 800, 600);
 
